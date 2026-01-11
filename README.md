@@ -6,7 +6,7 @@ This project helps users generate strong and random passwords for better online 
 
 ---
 
-## 🚀 Features
+##  Features
 - Generate strong and random passwords instantly  
 - Options to include:
   - Uppercase letters  
@@ -20,7 +20,7 @@ This project helps users generate strong and random passwords for better online 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - HTML  
 - CSS  
 - JavaScript  
@@ -29,7 +29,7 @@ This project helps users generate strong and random passwords for better online 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 Password-Genrator/
 │
@@ -44,7 +44,7 @@ Copy code
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
 git clone https://github.com/VanshRanaR/Password-Genrator.git
@@ -78,7 +78,7 @@ Copy code
 
 ---
 
-## 🧠 Purpose of This Project
+##  Purpose of This Project
 This project was created to:
 - Practice JavaScript logic and DOM manipulation  
 - Improve frontend development skills  
@@ -87,12 +87,12 @@ This project was created to:
 
 ---
 
-## 📸 Preview
+##  Preview
 _Add screenshots of your project UI here later._
 
 ---
 
-## ✨ Future Enhancements
+##  Future Enhancements
 - Password strength meter  
 - Copy-to-clipboard button  
 - Dark / Light mode  
@@ -102,7 +102,7 @@ _Add screenshots of your project UI here later._
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Vansh Rana**  
 
